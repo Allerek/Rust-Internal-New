@@ -1,0 +1,148 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: "DXGI_STATUS_OCCLUDED": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58160,9):
+      zobacz poprzednią definicję „DXGI_STATUS_OCCLUDED”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: "DXGI_STATUS_CLIPPED": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58169,9):
+      zobacz poprzednią definicję „DXGI_STATUS_CLIPPED”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: "DXGI_STATUS_NO_REDIRECTION": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58178,9):
+      zobacz poprzednią definicję „DXGI_STATUS_NO_REDIRECTION”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58187,9):
+      zobacz poprzednią definicję „DXGI_STATUS_NO_DESKTOP_ACCESS”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58196,9):
+      zobacz poprzednią definicję „DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: "DXGI_STATUS_MODE_CHANGED": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58205,9):
+      zobacz poprzednią definicję „DXGI_STATUS_MODE_CHANGED”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58214,9):
+      zobacz poprzednią definicję „DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: "DXGI_ERROR_INVALID_CALL": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58229,9):
+      zobacz poprzednią definicję „DXGI_ERROR_INVALID_CALL”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: "DXGI_ERROR_NOT_FOUND": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58238,9):
+      zobacz poprzednią definicję „DXGI_ERROR_NOT_FOUND”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: "DXGI_ERROR_MORE_DATA": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58247,9):
+      zobacz poprzednią definicję „DXGI_ERROR_MORE_DATA”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: "DXGI_ERROR_UNSUPPORTED": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58256,9):
+      zobacz poprzednią definicję „DXGI_ERROR_UNSUPPORTED”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58265,9):
+      zobacz poprzednią definicję „DXGI_ERROR_DEVICE_REMOVED”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: "DXGI_ERROR_DEVICE_HUNG": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58274,9):
+      zobacz poprzednią definicję „DXGI_ERROR_DEVICE_HUNG”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: "DXGI_ERROR_DEVICE_RESET": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58284,9):
+      zobacz poprzednią definicję „DXGI_ERROR_DEVICE_RESET”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58293,9):
+      zobacz poprzednią definicję „DXGI_ERROR_WAS_STILL_DRAWING”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58303,9):
+      zobacz poprzednią definicję „DXGI_ERROR_FRAME_STATISTICS_DISJOINT”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58312,9):
+      zobacz poprzednią definicję „DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58322,9):
+      zobacz poprzednią definicję „DXGI_ERROR_DRIVER_INTERNAL_ERROR”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58331,9):
+      zobacz poprzednią definicję „DXGI_ERROR_NONEXCLUSIVE”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58340,9):
+      zobacz poprzednią definicję „DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58350,9):
+      zobacz poprzednią definicję „DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58359,9):
+      zobacz poprzednią definicję „DXGI_ERROR_REMOTE_OUTOFMEMORY”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58665,9):
+      zobacz poprzednią definicję „D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58674,9):
+      zobacz poprzednią definicję „D3D11_ERROR_FILE_NOT_FOUND”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58684,9):
+      zobacz poprzednią definicję „D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58693,9):
+      zobacz poprzednią definicję „D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58641,9):
+      zobacz poprzednią definicję „D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": ponowna definicja makra
+  (kompilowanie pliku źródłowego „main.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58650,9):
+      zobacz poprzednią definicję „D3D10_ERROR_FILE_NOT_FOUND”
+  
+C:\Users\aller\Downloads\ImGui-DirectX-11-Kiero-Hook-master\ImGui DirectX 11 Kiero Hook\Offsets.h(56,32): warning C4244: "argument": konwersja z "uint64_t" do "int32_t", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\aller\Downloads\ImGui-DirectX-11-Kiero-Hook-master\ImGui DirectX 11 Kiero Hook\Offsets.h(77,32): warning C4244: "argument": konwersja z "uint64_t" do "int32_t", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+  ImGui DirectX 11 Kiero Hook.vcxproj -> C:\Users\aller\Downloads\ImGui-DirectX-11-Kiero-Hook-master\x64\Debug\debug_c.dll
